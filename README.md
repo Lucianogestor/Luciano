@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luciano</h1>
+<h1 align="center">Hi 👋, I'm Luciano Torres Almeida</h1>
 <h3 align="center">A passionate lawyer and t.i studant from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucianogestor&label=Profile%20views&color=0e75b6&style=flat" alt="lucianogestor" /> </p>
